@@ -1143,7 +1143,7 @@ NOTE: In groups, only admins can add/remove RSS links to the group's subscriptio
     "{} peringatan, {} telah diblokir!": "{} warnings, {} has been banned!",
     "{} peringatan, {} telah dibisukan!": "{} warnings, {} has been muted!",
     "Hapus peringatan": "Remove warn",
-    "{} punya {}/{} peringatan... Hati-hati!": "{} has {}/{} warnings... watch out!",
+    "{} punya {}/{} peringatan... Hati-hati!": "{} ඔයාට {}/{} ක් අනතුරු හැඟවීම් තියෙනව. පරිස්ස්මෙන් ඉන්න අපි ඇහැ ගහගෙන  ඉන්නෙ!😡 ඊලග මොහොතේ ඔබ නෙරපාහරිනු ඇත !",
     "{} punya {}/{} peringatan... Jika anda di peringati lagi maka kamu akan di {}!": "{} has {}/{} warnings... If you are warned again, you will be {}!",
     "\nAlasan pada peringatan terakhir:\n{}": "\nReason for last warn:\n{}",
     "Peringatkan dihapus oleh {}.": "Warn removed by {}.",
