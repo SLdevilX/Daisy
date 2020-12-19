@@ -19,9 +19,9 @@ id = {
 	"Bahasa telah di ubah ke {}!": "Language changed",
 	"Bahasa di *{}* saat ini adalah:\n{}.\n\nPilih bahasa:": "Select language to apply: \n\nCurrent chat Language is *English*",
 	"obrolan saat ini": "current in this chat",
-	"language_help": """Not every SL group speaks English; some groups would rather have Daisy respond in their own language.
+	"language_help": """Not every SL group speaks English; some groups would rather have Dewmi respond in their own language.
 
-This is where Daisy come in; you can change most of Daisy's replies to be in the Sinhala language!
+This is where Dewmi come in; you can change most of Dewmi's replies to be in the Sinhala language!
 
 Available languages are:
 - 🇺🇸 English
@@ -35,17 +35,15 @@ Available commands are:
 	"start_text": """
 Hi {}, my name is {}! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Project Daisy written by [InukaASiTH](https://visi.tk/inukaasith)
+I am a group manager bot created by [my master](tg://user?id={}) based on Project Dewmi written by [lasiya](t.me/Danuma_admin_bot)
 
 You can find the list of available commands with /help.
 
 Want to Chat with me, send /addchat and reply to my message to start chatting.
 
-[- The Source code is available on Github -](https://github.com/InukaAsith/Daisy.git)
-©2020 by [Infinity JE®](https://infinityje.com). 
 """,
 	"help_text": """
-Hey there! I'm a powerful group manager powered by *Daisy*.
+Hey there! I'm a powerful group manager powered by *Dewmi*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
@@ -64,13 +62,13 @@ All commands can either be used with / or !.
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](https://t.me/InukaASiTH) to take me to my place now, and \
+Need a lot of work for [my creator](https://t.me/Danuma_admin_bot) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit www.infinityje.com, Thank you 😁""",
+If you really are interested in donating, please join t.me/danuma01, Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",
@@ -196,8 +194,8 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 # Backups
 	"Coba unduh dan unggah ulang file seperti Anda sendiri sebelum mengimpor - yang ini sepertinya rusak!": "Try downloading and reuploading the file as yourself before importing - this one seems to be iffy!",
 	"File cadangan tidak valid!": "Invalid backup file!",
-	"Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Daisy backup!\nJoin our [Group support](https://t.me/InfinityJE) for reporting and troubleshooting this problem!\n\nThank you",
-	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/InfinityJE) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from dewmi backup!\nJoin our [Group support](https://t.me/danuma01) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/danuma01) for reporting and troubleshooting this problem!\n\nThank you",
 	"Ada lebih dari satu grup di file ini, dan tidak ada yang memiliki id obrolan yang sama dengan grup ini - bagaimana cara memilih apa yang akan diimpor?": "Theres more than one group here in this file, and none have the same chat id as this group - how do I choose what to import?",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat *{}*": "Backup comes from another chat, I can't return another chat to chat *{}*",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat ini": "Backup comes from another chat, I can't return another chat to this chat",
@@ -215,7 +213,7 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 						   "masalah bisa di-debug. Pemilik saya akan dengan senang hati membantu, dan setiap bug "
 						   "dilaporkan membuat saya lebih baik! Terima kasih! 🙂": 
 	"An exception occured while restoring your data. The process may not be complete. If "
-						   "you have a problem with this, contact @InukaASiTH with your backup file, so "
+						   "you have a problem with this, contact @Danuma_admin_bot with your backup file, so "
 						   "issue can be debugged. My owner will be happy to help, and every bug "
 						   "reported makes me better! Thanks! 🙂",
 	"Cadangan sepenuhnya dikembalikan pada *{}*. Selamat datang kembali! 😀": "Backup fully imported in *{}*. Welcome back! 😀",
@@ -240,7 +238,7 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 	"backups_help": """
 *Admin only:*
  - /import: reply to a group butler/marie/rose/emilia/Daisy backup file to import as much as possible, making the transfer super simple!
-Note that files/photos from other bots can't be imported due to telegram restrictions. Except for Daisy backup it self.
+Note that files/photos from other bots can't be imported due to telegram restrictions. Except for Dewmi backup it self.
  - /export: export group data, you can do this 12 hours once.
 """,
 	"*Data yang tidak dapat di import*": "*Data which can't be imported*",
