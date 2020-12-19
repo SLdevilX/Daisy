@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/InukaAsith/Daisy",
+  "repository": "hhttps://github.com/lasindu123/Daisy",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -26,16 +26,16 @@
     },
     "DAISY_IMG": {
       "description": "Daisy's Logo.. Telegra.ph only",
-      "value": "https://telegra.ph/file/4be7c7a8a1a9f50b73d21.jpg"
+      "value": "https://telegra.ph/file/f4705eb42433a60446fc1.jpg"
     },
     
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1141839926"
+      "value": "1082702383"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "InukaASiTH"
+      "value": "Lasiya"
     },
     
     
@@ -46,19 +46,19 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001481049387"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1141839926"
+      "value": "1082702383"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1141839926"
+      "value": "1082702383"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1141839926"
+      "value": "1082702383"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
