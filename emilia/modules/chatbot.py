@@ -135,7 +135,7 @@ When the AI Enabled Daisy will start chatting when you repliying her Messages!!
  • `/addchat`*:* Enables Chatbot mode in the chat.
  • `/rmchat`*:* Disables Chatbot mode in the chat.
  
-Reports bugs at @InfinityJE
+Reports bugs at @danuma01
 *Powered by CoffeeHouse*
 """
 
