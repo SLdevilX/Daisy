@@ -65,7 +65,7 @@ def remove_chat(update: Update, context: CallbackContext):
 
 def check_message(context: CallbackContext, message):
     reply_msg = message.reply_to_message
-    if message.text.lower() == "daisy":
+    if message.text.lower() == "dewmi":
         return True
     if reply_msg:
         if reply_msg.from_user.id == context.bot.get_me().id:
@@ -126,8 +126,8 @@ def list_chatbot_chats(update: Update, context: CallbackContext):
 
 
 __help__ = f"""
-Daisy's AI based Chatbot feature allows Daisy to talk and provides a more interactive group chat experience.
-When the AI Enabled Daisy will start chatting when you repliying her Messages!!
+Dewmi's AI based Chatbot feature allows Dewmi to talk and provides a more interactive group chat experience.
+When the AI Enabled Dewmi will start chatting when you repliying her Messages!!
 *Please Note that AI Support only for English Language*
 
 *Commands:* 
