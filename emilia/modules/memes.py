@@ -631,15 +631,15 @@ Some dank memes for fun or whatever!
  • /stretch:  streeeeeeetch iiiiiiit.
  • /warm: Hug a user warmly, or get hugged if not a reply.
  • /punch: Punch a user, or get punched if not a reply.
- • /bug <bug>: Reports bugs to Developers. Only can be used in @InfinityJE
+ • /bug <bug>: Reports bugs to Developers. Only can be used in @danuma01
  
 *Regex based memes:*
-`/decide` can be also used with regex like: `Daisy? <question>: randomly answer "Yes, No" etc.`
+`/decide` can be also used with regex like: `dewmi? <question>: randomly answer "Yes, No" etc.`
 
 Some other regex filters are:
 `me too` | `goodmorning` | `goodnight`.
 
-Daisy will reply random strings accordingly when these words are used!
+Dewmi will reply random strings accordingly when these words are used!
 All regex filters can be disabled incase u don't want... like: `/disable metoo`.
 """
 
