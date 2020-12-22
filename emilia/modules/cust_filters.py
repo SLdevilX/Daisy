@@ -356,7 +356,7 @@ def changed(update, context):
     
     	
     	message = update.effective_message
-    	message.reply_text("Use /addfilter to add filters with Daisy")
+    	message.reply_text("Use /addfilter to add filters with Dewmi")
 
 
 __help__ = "filters_help"
