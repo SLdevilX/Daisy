@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/lasindu123/Daisy",
+  "repository": "hhttps://github.com/SLdevilX/Daisy",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -62,7 +62,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "value": "t.me/@Danuma_admin_bot"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
