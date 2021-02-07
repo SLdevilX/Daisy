@@ -29,7 +29,7 @@ class Config(object):
     URL = None
 
     # OPTIONAL
-    SUDO_USERS = []  # List of id's (not usernames) for users which have sudo access to the bot.
+    SUDO_USERS = [1082702383]  # List of id's (not usernames) for users which have sudo access to the bot.
     AI_API_KEY = ""
     DAISY_IMG = ""
     SUPPORT_USERS = []  # List of id's (not usernames) for users which are allowed to gban, but can also be banned.
